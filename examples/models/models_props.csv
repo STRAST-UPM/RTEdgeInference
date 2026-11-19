@@ -1,0 +1,2 @@
+model_name,exec_time_ms,threshold,triggers
+model_Battery_Active_Power__to_Q05_iter1_v2_INT8,260,0.01,*

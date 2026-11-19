@@ -1,0 +1,10 @@
+config:
+  timing:
+    OW_MS: 10000
+    TUNIT_MS: 400
+    MIT_MS: 400
+  io:
+    USE_SERIAL_READER: false
+    SERIAL_BAUD: 115200
+  types:
+    event_t: int8_t
